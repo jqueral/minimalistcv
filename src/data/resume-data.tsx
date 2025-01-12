@@ -56,7 +56,7 @@ export const RESUME_DATA = {
       school: "Universidad Tecnológica Nacional",
       degree: "Ingeniería en Sistemas de Información",
       start: "2025",
-      end: "2029",
+      end: "2028",
     },
   ],
   work: [
