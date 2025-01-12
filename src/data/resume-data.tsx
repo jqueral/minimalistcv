@@ -20,9 +20,9 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  name: "Juliano Queral",
+  initials: "JQ",
+  location: "Argentina",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
@@ -31,32 +31,32 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "julianoqueral@gmail.com",
+    tel: "+3413273311",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/jqueral",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/julianoqueral/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/julianoqueralt",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Universidad Tecnológica Nacional",
+      degree: "Ingeniería en Sistemas de Información",
+      start: "2025",
+      end: "2029",
     },
   ],
   work: [
